@@ -1,6 +1,6 @@
 # 💫 About Me
 
-🔭 I’m currently working on Operations and Logistics Management<br>👯 I’m looking to collaborate on IoT and Blockchain<br>🤝 I’m looking for help with Backend Development<br>🌱 I’m currently learning IOS Development<br>💬 Ask me about System Integrations<br>⚡ Fun fact I love Racing
+🔭 I’m currently working on ..<br>👯 I’m looking to collaborate on IoT and Blockchain<br>🤝 I’m looking for help with Cloud Development<br>🌱 I’m currently learning ..<br>💬 Ask me about System Integrations<br>⚡ Fun fact I love Racing
 
 ## 🌐 Socials
 
